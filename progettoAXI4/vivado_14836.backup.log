@@ -1,0 +1,27 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Mar  1 20:12:50 2021
+# Process ID: 14836
+# Current directory: C:/Users/batta/Documents/GitHub/ProgettoES1/progettoAXI4
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7180 C:\Users\batta\Documents\GitHub\ProgettoES1\progettoAXI4\progettoAXI4.xpr
+# Log file: C:/Users/batta/Documents/GitHub/ProgettoES1/progettoAXI4/vivado.log
+# Journal file: C:/Users/batta/Documents/GitHub/ProgettoES1/progettoAXI4\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/batta/Documents/GitHub/ProgettoES1/progettoAXI4/progettoAXI4.xpr
+INFO: [Project 1-313] Project file moved from 'C:/Users/baroj/Documents/GitHub/ProgettoES1/progettoAXI4' since last save.
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-3] IP Repository Path: Could not find the directory 'E:/ProgettoEs/vivado/Arm_ipi_repository'.
+WARNING: [filemgmt 56-2] IPUserFilesDir: Could not find the directory 'C:/Users/batta/Documents/GitHub/ProgettoES1/progettoAXI4/progettoAXI4.ip_user_files', nor could it be found using path 'C:/Users/baroj/Documents/GitHub/ProgettoES1/progettoAXI4/progettoAXI4.ip_user_files'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+WARNING: [IP_Flow 19-2248] Failed to load user IP repository 'e:/ProgettoEs/vivado/Arm_ipi_repository'; Can't find the specified path.
+If this directory should no longer be in your list of user repositories, go to the IP Settings dialog and remove it.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilexit
+INFO: [Common 17-206] Exiting Vivado at Mon Mar  1 20:16:57 2021...
+sed = 00:00:31 . MemINFO: [Common 17-344] 'open_project' was cupdate_coexit
+INFO: [Common 17-206] Exiting Vivado at Mon Mar  1 20:14:55 2021...
+at Mon Mar  1 20:14:50 2021...
+
